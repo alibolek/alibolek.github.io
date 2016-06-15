@@ -325,36 +325,32 @@ ul#nav li.current a { color: #F06000; }
    border-radius: 3px 0 0 3px;
 }
 
-.photoshop {
+.Python {
   	width: 60%;
-  	-moz-animation: photoshop 2s ease;
-  	-webkit-animation: photoshop 2s ease;
+  	-moz-animation: Python 2s ease;
+  	-webkit-animation: Python 2s ease;
 }
-.illustrator {
-  	width: 55%;
-  	-moz-animation: illustrator 2s ease;
-  	-webkit-animation: illustrator 2s ease;
+.Java {
+  	width: 40%;
+  	-moz-animation: Java 2s ease;
+  	-webkit-animation: Java 2s ease;
 }
-.wordpress {
+.Javascript {
   	width: 50%;
-  	-moz-animation: wordpress 2s ease;
-  	-webkit-animation: wordpress 2s ease;
+  	-moz-animation: Javascript 2s ease;
+  	-webkit-animation: Javascript 2s ease;
 }
-.css {
+.HTMLCSS {
   	width: 90%;
-  	-moz-animation: css 2s ease;
-  	-webkit-animation: css 2s ease;
+  	-moz-animation: HTMLCSS 2s ease;
+  	-webkit-animation: HTMLCSS 2s ease;
 }
-.html5 {
-  	width: 80%;
-  	-moz-animation: html5 2s ease;
-  	-webkit-animation: html5 2s ease;
+.PHP {
+  	width: 40%;
+  	-moz-animation: PHP 2s ease;
+  	-webkit-animation: PHP 2s ease;
 }
-.jquery {
-  	width: 50%;
-  	-moz-animation: jquery 2s ease;
-  	-webkit-animation: jquery 2s ease;
-}
+
 
 @-moz-keyframes photoshop {
   0%   { width: 0px;  }
