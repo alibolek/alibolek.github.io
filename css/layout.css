@@ -326,17 +326,17 @@ ul#nav li.current a { color: #F06000; }
 }
 
 .Python {
-  	width: 60%;
+  	width: 70%;
   	-moz-animation: Python 2s ease;
   	-webkit-animation: Python 2s ease;
 }
 .Java {
-  	width: 40%;
+  	width: 50%;
   	-moz-animation: Java 2s ease;
   	-webkit-animation: Java 2s ease;
 }
 .Javascript {
-  	width: 50%;
+  	width: 60%;
   	-moz-animation: Javascript 2s ease;
   	-webkit-animation: Javascript 2s ease;
 }
@@ -346,7 +346,7 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: HTMLCSS 2s ease;
 }
 .PHP {
-  	width: 40%;
+  	width: 50%;
   	-moz-animation: PHP 2s ease;
   	-webkit-animation: PHP 2s ease;
 }
